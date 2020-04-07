@@ -1,0 +1,10 @@
+Django==1.11.2
+django-password-reset==1.0
+djangorestframework==3.6.3
+django-cors-headers
+django-filter
+django-localflavor
+djoser
+psycopg2
+pytz==2017.2
+stripe
